@@ -141,4 +141,8 @@ button {
     left: 20px;
     width: 200px;
     height: auto;
+
+}
+.secao-principal h3 {
+    margin-top: 20px;
 }
